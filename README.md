@@ -1,6 +1,6 @@
 # Identifying the Severity of a Heart Disease
 
-## Abstract:
+## Summary:
 Studies show that heart disease is the ruling cause of death for both men and women in the United States.
 Using the Heart Disease Dataset retrieved from the
 UCI Machine Learning Repository, we explored whether
